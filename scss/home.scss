@@ -72,7 +72,7 @@ $purple: #e91e63;
     flex-wrap: wrap;
   }
   .col-md-6 {
-    padding: 0px 40px;
+    padding: 0 40px;
     /*border-left: 6px solid #4183D7;*/
     display: flex;
     flex-direction: column;
@@ -103,6 +103,10 @@ $purple: #e91e63;
 
 #overwabble {
   padding: 70px 0;
+  p{
+    margin-top: 30px;
+    text-align: center;
+  }
 }
 
 .titletextcentre {
@@ -111,7 +115,29 @@ $purple: #e91e63;
   font-size: 2.5em;
 }
 
-#overwabble p {
-  margin-top: 30px;
-  text-align: center;
+#sectie3 {
+  background-color: #e91e63;
+  .textleft{
+    padding: 100px 70px;
+    color: #fff;
+  }
+  .sectiontitle {
+    font-size: 35px;
+  }
+  .homeimagehalf{
+    background-image: url(../img/Analytics.jpg);
+    background-position: center 45%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 450px;
+  }
+}
+
+#sectie4 {
+  padding: 70px 0;
+  p{
+    margin-top: 30px;
+    text-align: center;
+  }
 }

@@ -54,7 +54,7 @@
     display: flex;
     flex-wrap: wrap; }
   #websitesapplicaties .col-md-6 {
-    padding: 0px 40px;
+    padding: 0 40px;
     /*border-left: 6px solid #4183D7;*/
     display: flex;
     flex-direction: column; }
@@ -80,14 +80,34 @@
 
 #overwabble {
   padding: 70px 0; }
+  #overwabble p {
+    margin-top: 30px;
+    text-align: center; }
 
 .titletextcentre {
   font-weight: 500;
   text-align: center;
   font-size: 2.5em; }
 
-#overwabble p {
-  margin-top: 30px;
-  text-align: center; }
+#sectie3 {
+  background-color: #e91e63; }
+  #sectie3 .textleft {
+    padding: 100px 70px;
+    color: #fff; }
+  #sectie3 .sectiontitle {
+    font-size: 35px; }
+  #sectie3 .homeimagehalf {
+    background-image: url(../img/Analytics.jpg);
+    background-position: center 45%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 450px; }
+
+#sectie4 {
+  padding: 70px 0; }
+  #sectie4 p {
+    margin-top: 30px;
+    text-align: center; }
 
 /*# sourceMappingURL=home.css.map */
