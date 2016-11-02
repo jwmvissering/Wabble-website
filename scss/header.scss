@@ -1,3 +1,6 @@
+$blue: #4183D7;
+$purple: #e91e63;
+
 nav {
   height: 70px;
   padding: 10px;
@@ -19,7 +22,7 @@ nav {
     font-size: 14px;
   }
   &:last-child {
-    background-color: #e91e63;
+    background-color: $purple;
     border-radius: 3px;
     margin-right: 40px;
     margin-left: 35px;
