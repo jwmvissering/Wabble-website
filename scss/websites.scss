@@ -1,3 +1,49 @@
-* {
-  color: cornflowerblue;
+$blue: #4183D7;
+$purple: #e91e63;
+$darkblue: #3d4154;
+
+.quoteblck {
+  margin-top: 70px;
+  padding: 1em 0 1em 0;
+}
+
+.quoteblck h1, .cta-txt {
+  font-weight: 700;
+  color: $darkblue;
+}
+
+.cta-txt {
+  margin-top: 30px;
+  font-size: 24px;
+}
+
+.cnt-websites {
+  background: linear-gradient(
+                  rgba(61, 65, 84, 0.75),
+                  rgba(61, 65, 84, 0.75)
+  ),url('../img//apple-imac-ipad-workplace-38568.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.cnt-expectations, .cnt-websites {
+  padding: 70px 0;
+}
+
+.cnt-expectations, .cta {
+  padding-bottom: 35px;
+}
+
+.cnt-websites {
+  color: #ffffff;
+}
+
+.cnt-websites h1 {
+  padding-bottom: 0.3em;
+}
+
+.web-intro {
+  padding-bottom: 30px;
 }

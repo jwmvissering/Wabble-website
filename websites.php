@@ -21,11 +21,10 @@
 
 <body>
 <?php include_once("inc/header.php") ?>
-
 <section class="quoteblck">
-    <div class="container text-center">
+    <div class="container">
         <div class="row">
-            <div clas="col-md-6">
+            <div class="col-md-12 text-center">
                 <h1>Jouw visie. <br/> Het ontwerp van Wabble.</h1>
             </div>
         </div>
@@ -37,11 +36,18 @@
         <h1 class="hdr-light">Websites</h1>
 
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
                 <p class="web-intro text-center">
                     We zijn allemaal meer online,
                     waardoor een goede website dus ook steeds belangrijker wordt.
                 </p>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
                 <p class="text-left">
                     Wij leveren websites waarbij de ervaring van de bezoeker centraal staat.
                     Onze websites zijn volledig responsive, wat wil zeggen dat de websites
@@ -79,12 +85,13 @@
                 <p>Beschrijving van wat we bedoelen met dit specifieke punt. Mooie woorden die SEO vriendelijk zijn waardoor het lijkt alsof we weten wat we aan het doen zijn. </p>
             </div>
         </div>
+
+        <p class="cta-txt">vraag vrijblijvend een offerte aan:</p>
     </div>
 </section>
 
 <section class="content cta text-center">
-    <p class="cta-txt">vraag vrijblijvend een offerte aan:</p>
-    <button type="button" class="btn btn-primary btn-lg">OFFERTE AANVRAGEN</button>
+    <button type="button" class="btn btn-primary btn-atn">OFFERTE AANVRAGEN</button>
 </section>
 
 </body>
