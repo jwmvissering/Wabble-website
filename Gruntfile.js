@@ -12,7 +12,8 @@ module.exports = function(grunt) {
                 files: {
                     'css/style.css': 'scss/style.scss',
                     'css/home.css': 'scss/home.scss',
-                    'css/header.css': 'scss/header.scss'
+                    'css/header.css': 'scss/header.scss',
+                    'css/websites.css': 'scss/websites.scss'
                 }
             }
         }

@@ -27,7 +27,6 @@
         <div class="row">
             <div clas="col-md-6">
                 <h1>Jouw visie. <br/> Het ontwerp van Wabble.</h1>
-                <p>GIT test dingen.</p>
             </div>
         </div>
     </div>
