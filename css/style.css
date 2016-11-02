@@ -1,13 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700");
+body {
+  height: 1000px;
+  font-family: 'Roboto',sans-serif;
+  font-size: 17px; }
 
-
-
-body{
-
-	height:1000px;
-
-	font-family: 'Roboto',sans-serif;
-
-	font-size: 17px;
-
-}
+/*# sourceMappingURL=style.css.map */
