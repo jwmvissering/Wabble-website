@@ -1,14 +1,9 @@
 <!DOCTYPE html>
 
 <html lang="nl">
-
-
-
 <head>
 
 	<title>Betaalbare websites en applicaties - Wabble</title>
-
-	
 
 	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=0, minimal-ui" />
 
@@ -22,7 +17,6 @@
 	<link href="css/home.css" rel="stylesheet">
 
 </head>
-
 
 
 <body>
