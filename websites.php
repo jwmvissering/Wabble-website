@@ -65,24 +65,30 @@
 
 <section class="content cnt-expectations text-center">
     <div class="container">
-        <h1>Wat kunt u verwachten?</h1>
+        <h1 class="text-primary">Wat kunt u verwachten?</h1>
         <div class="row">
             <div class="col-md-4 services">
-                <p>IMAGE HERE</p>
-                <h4>Een modern ontwerp</h4>
-                <p>Beschrijving van wat we bedoelen met dit specifieke punt. Mooie woorden die SEO vriendelijk zijn waardoor het lijkt alsof we weten wat we aan het doen zijn. </p>
+                <i class="fa fa-4x fa-diamond text-highlight" aria-hidden="true"></i>
+                <h3 class="text-primary">Een modern ontwerp</h3>
+                <p>Wabble houdt zich op de hoogte van de trends om tot een stijlvol en modern ontwerp te komen.
+                   Hierbij wordt ervoor gezorgd dat de website gebruiksvriendelijks is.
+                   Zo weet je zeker dat jouw website modern oogt en een goede gebruikerservaring levert.</p>
             </div>
 
             <div class="col-md-4 services">
-                <p>IMAGE HERE</p>
-                <h4>Een modern ontwerp</h4>
-                <p>Beschrijving van wat we bedoelen met dit specifieke punt. Mooie woorden die SEO vriendelijk zijn waardoor het lijkt alsof we weten wat we aan het doen zijn. </p>
+                <i class="fa fa-4x fa-heart text-highlight" aria-hidden="true"></i>
+                <h3 class="text-primary">Hulp van A tot Z</h3>
+                <p> Wij willen iets neerzetten waar jij gelukkig mee bent. Niet alleen voor nu, maar ook voor in de toekomst.
+                    Daarom houden we graag contact, zodat we altijd kunnen helpen als dat nodig is.
+                    Ook regelen wij in het eerste jaar jouw hosting helemaal gratis!</p>
             </div>
 
             <div class="col-md-4 services">
-                <p>IMAGE HERE</p>
-                <h4>Een modern ontwerp</h4>
-                <p>Beschrijving van wat we bedoelen met dit specifieke punt. Mooie woorden die SEO vriendelijk zijn waardoor het lijkt alsof we weten wat we aan het doen zijn. </p>
+                <i class="fa fa-4x fa-newspaper-o text-highlight" aria-hidden="true"></i>
+                <h3 class="text-primary">Aanpasbaarheid voor iedereen</h3>
+                <p>Het blijft eenvoudig om kleuren, teksten of hele pagina's te wijzigen met onze websites.
+                    Ook biedt Wabble een complete gids waarmee aanpassingen eenvoudig gerealiseerd kunnen worden.
+                Zo wordt het eenvoudig om je website zelf bij te houden.</p>
             </div>
         </div>
 

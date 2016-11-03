@@ -2,6 +2,19 @@ $blue: #4183D7;
 $purple: #e91e63;
 $darkblue: #3d4154;
 
+/* text classes:
+  - primary: dark blue
+  - secondary: white
+  - highlight: purple
+*/
+.text-highlight {
+  color: $purple !important;
+}
+
+.text-primary {
+  color: $darkblue !important;
+}
+
 .quoteblck {
   margin-top: 70px;
   padding: 1em 0 1em 0;
@@ -40,10 +53,17 @@ $darkblue: #3d4154;
   color: #ffffff;
 }
 
-.cnt-websites h1 {
-  padding-bottom: 0.3em;
+.cnt-websites h1,
+.cnt-expectations h1 {
+  padding-bottom: 0.3em !important;
 }
 
 .web-intro {
   padding-bottom: 30px;
+}
+
+.btn-atn {
+  padding: 13px 25px;
+  font-size: 18px;
+  background-color: $blue;
 }
