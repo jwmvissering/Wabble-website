@@ -41,7 +41,7 @@
 
 				<div id="backgrndsubtitle">Bij ons heb je al een website vanaf €400,-</div>
 
-				<i class="fa fa-angle-double-down arrow" aria-hidden="true"></i>
+				<a href="#websitesapplicaties" id="arrowdownhome"><i class="fa fa-angle-double-down arrow" aria-hidden="true"></i></a>
 
 			</div>
 
@@ -67,11 +67,11 @@
 
 						Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-						Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+						Duis aute irure dolor in reprehenderit in voluptate.
 
 					</p>
 
-					<a class="button1">Websites</a>
+					<a class="button1 hvr-forward">Websites</a>
 
 				</div>
 
@@ -89,7 +89,7 @@
 
 					</p>
 
-					<a class="button1">Applicaties</a>
+					<a class="hvr-forward button1">Applicaties</a>
 
 				</div>
 
@@ -138,7 +138,7 @@
 
 			<div class="row">
 
-				<div class="col-md-6">
+				<div class="col-md-6 container">
 					<div class="textleft">
 						<h2 class="sectiontitle">Dikke vette koptekst</h2>
 						<p>
@@ -197,16 +197,13 @@
 
 	</section>
 
+	<footer>
+
+
+
+	</footer>
 
 </body>
-
-
-
-<footer>
-
-	
-
-</footer>
 
 
 </html>

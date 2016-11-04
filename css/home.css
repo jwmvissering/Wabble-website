@@ -2,6 +2,9 @@
   height: 600px;
   margin-top: 70px; }
 
+#arrowdownhome {
+  color: #fff; }
+
 .backgroundphoto {
   background-image: linear-gradient(rgba(66, 67, 71, 0.3), rgba(66, 67, 71, 0.3)), url(../img/background.jpg);
   background-position: center 45%;
@@ -70,13 +73,31 @@
 .button1 {
   margin-top: 10px;
   padding: 6px 20px;
-  border: 2px solid #4183D7;
-  color: #4183D7;
+  background-color: #4183D7;
+  color: #fff;
   font-size: 1.2em;
-  font-weight: 500;
   text-align: center;
   width: 40%;
   border-radius: 3px; }
+
+.button1:hover {
+  color: #efefef; }
+
+/* Button animatie */
+.hvr-forward {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform; }
+
+.hvr-forward:hover, .hvr-forward:focus, .hvr-forward:active {
+  -webkit-transform: translateX(8px);
+  transform: translateX(8px); }
 
 #overwabble {
   padding: 70px 0; }
@@ -92,7 +113,6 @@
 #sectie3 {
   background-color: #e91e63; }
   #sectie3 .textleft {
-    padding: 100px 70px;
     color: #fff; }
   #sectie3 .sectiontitle {
     font-size: 35px; }
@@ -104,6 +124,17 @@
     background-attachment: scroll;
     height: 450px; }
 
+/* RESPONSIVE DINGEN HIER */
+@media (min-width: 992px) and (max-width: 1199px) {
+  #sectie3 .textleft {
+    padding: 100px 70px 100px 40px;
+    width: 485px;
+    float: right; } }
+@media (min-width: 1200px) {
+  #sectie3 .textleft {
+    padding: 100px 70px 100px 40px;
+    width: 585px;
+    float: right; } }
 #sectie4 {
   padding: 70px 0; }
   #sectie4 p {
