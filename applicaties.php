@@ -15,7 +15,7 @@
 
     <link href="css/style.css" rel="stylesheet">
     <link href="css/header.css" rel="stylesheet">
-    <link href="css/websites.css" rel="stylesheet">
+    <link href="css/applicaties.css" rel="stylesheet">
 
     <!-- Favicon code -->
     <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
@@ -35,7 +35,6 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-
 </head>
 
 <body>
@@ -44,7 +43,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <h1>Jouw visie. <br/> Het ontwerp van Wabble.</h1>
+                <h1>Jouw applicatie.<br/> De techniek van Wabble.</h1>
             </div>
         </div>
     </div>
@@ -52,14 +51,14 @@
 
 <section class="content cnt-websites text-center">
     <div class="container">
-        <h1 class="hdr-light">Websites</h1>
+        <h1 class="hdr-light">Applicaties</h1>
 
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">
                 <p class="web-intro text-center">
-                    We zijn allemaal meer online,
-                    waardoor een goede website dus ook steeds belangrijker wordt.
+                    Naast het ontwikkelen van websites zijn we graag bezig met de ontwikkeling van applicaties.
+                    Bij Wabble kun je terecht voor een kwalitatief goede applicatie helemaal op maat gemaakt.
                 </p>
             </div>
             <div class="col-md-1"></div>
@@ -68,14 +67,13 @@
         <div class="row">
             <div class="col-md-12">
                 <p class="text-left">
-                    Wij leveren websites waarbij de ervaring van de bezoeker centraal staat.
-                    Onze websites zijn volledig responsive, wat wil zeggen dat de websites
-                    geoptimaliseerd zijn voor op de computer, smartphone én de tablet.
+                    Onze ervaring leert dat een applicatie een toegevoegde waarde kan zijn voor je organisatie.
+                    Bij Wabble helpen we je graag bij het opzetten van een applicatie.
+                    Door leuke, interactieve en realtime elementen toe te voegen aan de applicatie zorgen we er voor dat jouw applicatie een groot succes wordt.
+                    Een applicatie heb je bij ons al vanaf 400 euro.
                     <br /><br />
-                    Na een kennismakingsgesprek gaan we bij Wabble aan de slag met het maken van de perfecte website, helemaal gericht op jouw wensen. Wabble toont dat mooie websites ook goedkoop kunnen zijn.
-                    <br /><br />
-                    Onze websites voldoen aan alle eisen die er tegenwoordig gesteld worden. Zo maken wij het voor iedereen mogelijk om zelf op een gemakkelijke manier teksten en andere dingen aan te passen op de website. Bij de oplevering wordt een
-                    document opgesteld waarin je kunt teruglezen hoe je dit moet doen. Hierdoor wordt het eenvoudig om zelf de website up-to-date houden.
+                    Deze applicaties zijn geschikt voor zowel iOS als Android, waardoor het een groot publiek kan bereiken.
+                    Wabble kijkt met jou naar de gewenste functionaliteiten en denkt hierin actief mee, om zo ervoor te zorgen dat jouw applicatie optimaal werkt.
                 </p>
             </div>
         </div>
@@ -87,27 +85,26 @@
         <h1 class="text-primary">Wat kunt u verwachten?</h1>
         <div class="row">
             <div class="col-md-4 services">
-                <i class="fa fa-4x fa-diamond text-highlight icon" aria-hidden="true"></i>
-                <h3 class="text-primary">Een modern ontwerp</h3>
-                <p>Wabble houdt zich op de hoogte van de trends om tot een stijlvol en modern ontwerp te komen.
-                   Hierbij wordt ervoor gezorgd dat de website gebruiksvriendelijks is.
-                   Zo weet je zeker dat jouw website modern oogt en een goede gebruikerservaring levert.</p>
+                <i class="fa fa-4x fa-mobile text-highlight icon" aria-hidden="true"></i>
+                <h3 class="text-primary">Geschikt voor iOS en Android</h3>
+                <p>Applicaties die door Wabble ontwikkeld worden werken op de meest voorkomende systemen.
+                    Ook schrijven wij code zonder onnnodige elementen, waardoor de applicatie zo klein mogelijk blijft.</p>
             </div>
 
             <div class="col-md-4 services">
-                <i class="fa fa-4x fa-heart text-highlight icon" aria-hidden="true"></i>
-                <h3 class="text-primary">Hulp van A tot Z</h3>
-                <p> Wij willen iets neerzetten waar jij gelukkig mee bent. Niet alleen voor nu, maar ook voor in de toekomst.
-                    Daarom houden we graag contact, zodat we altijd kunnen helpen als dat nodig is.
-                    Ook regelen wij in het eerste jaar jouw hosting helemaal gratis!</p>
+                <i class="fa fa-4x fa-cog text-highlight icon" aria-hidden="true"></i>
+                <h3 class="text-primary">Verscheidene functionaliteiten</h3>
+                <p> Onze applicaties kunnen gebruik maken van alle functionaliteiten van een smartphone.
+                    Dit kan een vertrouwde functionaliteit zijn, zoals het geven meldingen,
+                    maar ook nieuwe technologieën zoals NFC, de techniek waarmee contactloos betaald kan worden met bepaalde pinpassen.</p>
             </div>
 
             <div class="col-md-4 services">
-                <i class="fa fa-4x fa-newspaper-o text-highlight icon" aria-hidden="true"></i>
-                <h3 class="text-primary">Aanpasbaarheid voor iedereen</h3>
-                <p>Het blijft eenvoudig om kleuren, teksten of hele pagina's te wijzigen met onze websites.
-                    Ook biedt Wabble een complete gids waarmee aanpassingen eenvoudig gerealiseerd kunnen worden.
-                Zo wordt het eenvoudig om je website zelf bij te houden.</p>
+                <i class="fa fa-4x fa-comments-o text-highlight icon" aria-hidden="true"></i>
+                <h3 class="text-primary">Feedback</h3>
+                <p>Wabble houdt contact, ook nadat jouw applicatie beschikbaar is gemaakt voor iedereen.
+                    Hierdoor willen we de drempel laag houden voor jou om feedback te geven.
+                    Ook kunnen we altijd overleggen over nieuwe functionaliteiten.</p>
             </div>
         </div>
 

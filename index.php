@@ -1,9 +1,31 @@
 <!DOCTYPE html>
 
 <html lang="nl">
+
+<!-- Favicon code -->
+<link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+<link rel="manifest" href="img/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
 <head>
 
 	<title>Betaalbare websites en applicaties - Wabble</title>
+
+	
 
 	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=0, minimal-ui" />
 
@@ -17,6 +39,7 @@
 	<link href="css/home.css" rel="stylesheet">
 
 </head>
+
 
 
 <body>
@@ -35,15 +58,13 @@
 
 				<div id="backgrndsubtitle">Bij ons heb je al een website vanaf €400,-</div>
 
-				<i class="fa fa-angle-double-down arrow" aria-hidden="true"></i>
+				<a href="#websitesapplicaties" id="arrowdownhome"><i class="fa fa-angle-double-down arrow" aria-hidden="true"></i></a>
 
 			</div>
 
 		</div>
 
 	</section>
-
-	
 
 	<section id="websitesapplicaties">
 
@@ -63,11 +84,11 @@
 
 						Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-						Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+						Duis aute irure dolor in reprehenderit in voluptate.
 
 					</p>
 
-					<a class="button1">Websites</a>
+					<a class="button1 hvr-forward">Websites</a>
 
 				</div>
 
@@ -85,17 +106,15 @@
 
 					</p>
 
-					<a class="button1">Applicaties</a>
+					<a class="hvr-forward button1">Applicaties</a>
 
 				</div>
 
-			  </div>
+			</div>
 
 		</div>
 
 	</section>
-
-	
 
 	<section id="overwabble">
 
@@ -124,22 +143,84 @@
 
 				</div>
 
+			</div>
+
+		</div>
+
+	</section>
+
+	<section id="sectie3">
+
+		<div class="container-fluid">
+
+			<div class="row">
+
+				<div class="col-md-6 container">
+					<div class="textleft">
+						<h2 class="sectiontitle">Dikke vette koptekst</h2>
+						<p>
+
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+							Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+							Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+						</p>
+					</div>
+
+				</div>
+
+				<div class="col-md-6 homeimagehalf">
+
+				</div>
+
 			  </div>
 
 		</div>
 
 	</section>
 
+	<section id="sectie4">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-md-12">
+
+					<div class="titletextcentre">
+
+						Zelf je website beheren via opdrachtprompt
+
+					</div>
+
+					<p>
+
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+						Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+						Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+						Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!
+					</p>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</section>
+
+	<footer>
+
+
+
+	</footer>
+
 </body>
-
-
-
-<footer>
-
-	
-
-</footer>
-
 
 
 </html>
