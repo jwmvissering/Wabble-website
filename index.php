@@ -35,15 +35,13 @@
 
 				<div id="backgrndsubtitle">Bij ons heb je al een website vanaf €400,-</div>
 
-				<i class="fa fa-angle-double-down arrow" aria-hidden="true"></i>
+				<a href="#websitesapplicaties" id="arrowdownhome"><i class="fa fa-angle-double-down arrow" aria-hidden="true"></i></a>
 
 			</div>
 
 		</div>
 
 	</section>
-
-	
 
 	<section id="websitesapplicaties">
 
@@ -63,11 +61,11 @@
 
 						Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-						Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+						Duis aute irure dolor in reprehenderit in voluptate.
 
 					</p>
 
-					<a class="button1">Websites</a>
+					<a class="button1 hvr-forward">Websites</a>
 
 				</div>
 
@@ -85,17 +83,15 @@
 
 					</p>
 
-					<a class="button1">Applicaties</a>
+					<a class="hvr-forward button1">Applicaties</a>
 
 				</div>
 
-			  </div>
+			</div>
 
 		</div>
 
 	</section>
-
-	
 
 	<section id="overwabble">
 
@@ -124,22 +120,84 @@
 
 				</div>
 
+			</div>
+
+		</div>
+
+	</section>
+
+	<section id="sectie3">
+
+		<div class="container-fluid">
+
+			<div class="row">
+
+				<div class="col-md-6 container">
+					<div class="textleft">
+						<h2 class="sectiontitle">Dikke vette koptekst</h2>
+						<p>
+
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+							Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+							Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+						</p>
+					</div>
+
+				</div>
+
+				<div class="col-md-6 homeimagehalf">
+
+				</div>
+
 			  </div>
 
 		</div>
 
 	</section>
 
+	<section id="sectie4">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-md-12">
+
+					<div class="titletextcentre">
+
+						Zelf je website beheren via opdrachtprompt
+
+					</div>
+
+					<p>
+
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+						Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+						Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+						Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!
+					</p>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</section>
+
+	<footer>
+
+
+
+	</footer>
+
 </body>
-
-
-
-<footer>
-
-	
-
-</footer>
-
 
 
 </html>

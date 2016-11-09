@@ -1,35 +1,80 @@
 $blue: #4183D7;
 $purple: #e91e63;
 
-nav {
-  height: 70px;
-  padding: 10px;
-}
-
 #logomenu {
-  margin-top: -10px;
-  width: 210px;
+  margin-top: -5px;
+  width: 180px;
 }
 
 .navbar-default {
   background-color: #fff;
 }
 
-#navbar ul li {
-  a {
-    text-transform: uppercase;
-    font-weight: 500;
-    font-size: 14px;
-  }
-  &:last-child {
-    background-color: $purple;
-    border-radius: 3px;
-    margin-right: 40px;
-    margin-left: 35px;
-    margin-top: 2px;
+#navbar{
+  ul li {
     a {
-      color: #fff;
-      padding: 13px 25px;
+      text-transform: uppercase;
+      font-weight: 500;
+      font-size: 14px;
+    }
+  }
+}
+
+.navbar-collapse.in {
+  background-color: #efefef;
+  margin-top: 10px;
+  padding: 0 20px;
+}
+
+@media (min-width: 763px){
+
+  #navbar{
+    ul li {
+      &:last-child {
+        background-color: $purple;
+        border-radius: 3px;
+        margin-right: 40px;
+        margin-left: 35px;
+        margin-top: 2px;
+        a {
+          color: #fff;
+          padding: 13px 25px;
+        }
+        :hover {
+          color: #efefef;
+        }
+      }
+    }
+  }
+
+  nav {
+    height: 70px;
+    padding: 10px;
+  }
+}
+@media (max-width: 762px){
+  .navbar-header {
+    height: 70px;
+    padding: 10px;
+  }
+
+  .navbar-toggle{
+    background-color: #ddd;
+    font-weight: 500;
+    margin-top: 4px;
+  }
+
+  #navbar{
+    ul li {
+      a {
+        font-size: 18px;
+      }
+      &:last-child {
+        background-color: $blue;
+        a {
+          color: #fff;
+        }
+      }
     }
   }
 }
